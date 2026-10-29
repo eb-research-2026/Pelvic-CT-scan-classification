@@ -21,7 +21,7 @@ You can download the repository using GitHub's **Code → Download ZIP** option,
 
 ```powershell
 git lfs install
-git clone https://github.com/ICARE86/Pelvic-CT-scan-classification.git
+git clone https://github.com/EmnaBouaine/Pelvic-CT-scan-classification.git
 cd Pelvic-CT-scan-classification
 git lfs pull
 ```
