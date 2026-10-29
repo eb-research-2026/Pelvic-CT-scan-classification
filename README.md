@@ -131,7 +131,7 @@ The sample files are tracked using Git LFS because of their large size.
 - It is not a certified medical device.
 - Its predictions may be incorrect.
 - The output must not be used as the sole basis for diagnosis or treatment.
-- 
+
 The authors do not guarantee the accuracy of predictions on new or unseen data.
 
 ## Repository Structure
